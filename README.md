@@ -8,9 +8,13 @@ This project aims to highlight trends in fiber types, brand, yarn weight, textur
 
 ## Tools
 Python
+
 pandas
+
 matplotlib
+
 seaborn
+
 
 ## Data
 The data was retrieved using the Ravelry API.
